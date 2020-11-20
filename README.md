@@ -1,2 +1,2 @@
 # matrix_calculator
-A matrix calculator in Python without the use of any modules.
+A matrix calculator in pure Python made along with Jetbrain Academy. This program is able to perform various operations on matrices that users input. It can add matrices, multiply a matrix by a scalar, multiply matrices, perform various transpositions on a matrix, calculate a determinant, and find the inverse of a matrix. Although it would practically make more sense to use numpy to work with matrices, it was fun to build a matrix calculator in pure Python.
